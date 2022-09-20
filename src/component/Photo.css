@@ -1,0 +1,14 @@
+.photo{
+    margin-left: 600px;
+    border-radius: 50px;
+}
+.content{
+    text-align: center;
+    color: brown;
+}
+img{
+    border-radius: 50%;
+}
+body{
+    background-color: aqua;
+}
